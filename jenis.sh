@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/AghayeKhaws
+cd $HOME/AghayeKhas
 
 install() {
 	    cd libs
