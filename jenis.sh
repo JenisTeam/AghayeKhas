@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/jenisbot
+cd $HOME/AghayeKhaws
 
 install() {
 	    cd libs
@@ -58,7 +58,6 @@ update() {
 }
 
 if [ "$1" = "install" ]; then
-	print_logo
 	logo_play
 	install
 elif [ "$1" = "update" ]; then
