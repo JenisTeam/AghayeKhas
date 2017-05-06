@@ -17,7 +17,7 @@
 
 <pre>
 <span>git clone https://github.com/jenisteam/AghayeKhas.git</span>
-<span>cd jenisteam</span>
+<span>cd AghayeKhas</span>
 <span>chmod +x jenis.sh</span>
 <span>./jenis.sh install</span>
 <span>./jenis.sh</span>
@@ -27,11 +27,9 @@
 <h1 align="left"> <strong>برای اتولانچ کردن سورس</strong></h1>
 
 <pre>
-<span>cd jenisteam</span>
+<span>cd AghayeKhas</span>
 <span>chmod +x run.sh</span>
 <span>killall screen</span>
 <span>screen ./run.sh</span>
-<span></span>
-<span></span>
 </pre>
 
